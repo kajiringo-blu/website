@@ -6,7 +6,7 @@
   <title>header_footer読み込み</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="ヘッダーとフッターを切り離して読み込ませる">
-  <link rel="stylesheet" href="header_footer.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>

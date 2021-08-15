@@ -1,0 +1,1 @@
+  <footer>New Webpage フッタ</footer>
